@@ -1,0 +1,52 @@
+/* Reset box model and padding */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Remove default list styles */
+ul, ol {
+    list-style: none;
+}
+
+/* Remove default margins and padding for some elements */
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+code,
+em,
+img,
+small,
+strong,
+sub,
+sup,
+textarea {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+/* Remove underlines from links */
+a {
+    text-decoration: none;
+}
+
+/* Set the default font to improve cross-browser consistency */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Set a background color and text color */
+body {
+    background-color: #ffffff;
+    color: #000000;
+}

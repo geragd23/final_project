@@ -35,6 +35,11 @@ initializeCarousel("carousel8");
 initializeCarousel("carousel9");
 initializeCarousel("carousel10");
 initializeCarousel("carousel11");
+initializeCarousel("carousel12");
+initializeCarousel("carousel13");
+initializeCarousel("carousel14");
+
+
 
 
 

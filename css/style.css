@@ -216,7 +216,9 @@ img {
     grid-template-columns: 1fr 1fr; 
     grid-gap: 0px; 
 } */
-
+.likes p{
+  padding-left:80px;
+}
 .animated-image {
     /* width: 300px; 
     height: auto;  */
